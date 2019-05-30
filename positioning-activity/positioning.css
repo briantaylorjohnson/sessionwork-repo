@@ -1,0 +1,43 @@
+p{
+    color:black;
+    font-size: 12px;
+    width: 960px;
+    text-align: justify;
+    margin: 0 auto;
+}
+h1{
+    color: black;
+    font-size: 24px;
+    width: 960px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+
+.box1{
+    position: absolute;
+    height: 100px;
+    width: 150px;
+    background: #EEEEEE;
+    text-align: center;
+}
+
+.box2{
+    position: relative;
+    background: #EEEEEE;
+    height: 200px;
+    width: 960px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.box3{
+    position: absolute;
+    background: #999999;
+    width: 150px;
+    height: 75px;
+    right: -20px;
+    bottom: 0px;
+}
